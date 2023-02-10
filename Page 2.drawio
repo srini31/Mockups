@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T00:15:06.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Wok2_AhCBy-sBZnrp2iq" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T00:15:30.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fkkel3ciBLqGp0Sam13J" version="20.8.19" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
     <mxGraphModel dx="1715" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="lKQoEcg4JDYgAveYxKwX-92" value="Import Geometry" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="50.5" y="200" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lKQoEcg4JDYgAveYxKwX-84" value="Primary" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;labelBackgroundColor=#66FFFF;labelBorderColor=default;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="440" width="86" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
